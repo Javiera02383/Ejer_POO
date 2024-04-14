@@ -1,0 +1,333 @@
+#container4{    
+    display: flex;
+    margin: 0%;
+}
+#container4 .item-1{
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+.slider-container {
+    width: 570px;
+    margin: 0 auto;
+    overflow: hidden;
+    height: 400px;
+    
+  }
+  
+.slider {
+    display: flex;
+    transition: transform 0.5s ease;
+    width:100px ;
+    
+  }
+
+  
+.slide {
+    flex: 0 0 auto;
+    
+    
+  }
+.slider-container .card {
+    
+    border: none;
+  }
+.card {
+    width: 580px; /* Ancho de la tarjeta */
+    padding: 20px;
+    margin: 10px;
+   
+  }
+
+
+/*card 1*/
+
+
+#card-1 .h2{
+  margin-left: 150px;
+  font-size: 40px;
+
+}
+#card-1{
+  display: inline-flex;
+  flex-wrap: wrap;
+  font-size: 14px;
+  }
+#computadora{
+    width: 30%;
+    height: 35%;
+    Margin-left:350px;
+    margin-top: -80px;
+}
+#card-1 .descripcion{
+    width: 300px;
+    height: 100px;
+   
+    
+    margin-top: 10px;
+  
+}
+#button_lenovo{
+  margin-top:-50px;
+  width:200px ;
+  margin-left: 50px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: inherit;
+  background: #007bff;
+  height: 50px;
+  font-size: 20px;
+}
+#tarjeta1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#button_ps5{
+    margin-top:-50px;
+    width:200px ;
+    margin-left: 50px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: inherit;
+    background: #007bff;
+    height: 50px;
+    font-size: 20px;
+}
+
+
+
+.producto-1 {
+    
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  margin-top: -50px;
+  margin-left: 10px;
+  height: 50px;
+  }
+
+#img_lenovo{
+  width: 100%;
+  height: 310px;
+}
+.producto-2 {
+    
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 10px;
+    height: 50px;
+    
+  }
+.precio {
+  font-size: 24px;
+  font-weight: bold;
+  color:  #333333 ; /* Color naranja */
+  margin-top: 0px;
+}
+
+.producto-3 {
+  
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  margin-top: -50px;
+  margin-left: 10px;
+  height: 50px;
+  
+}
+
+#button_phone15{
+  margin-top:-50px;
+  width:200px ;
+  margin-left: 50px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: inherit;
+  background: #007bff;
+  height: 50px;
+  font-size: 20px;
+}
+
+#img_phone15{ width: 150px; height: 190px;}
+#img_ps5  {
+  
+  width: 100%;
+ 
+
+}
+
+
+/*card 2*/
+#container4 .item-2{
+  
+  margin-top: 125px;
+  margin-left: 30px;
+  height: 100px;
+  display: inline;
+  flex-wrap: wrap;
+  width: 450px;
+  background-color: #E5F0E5;
+}
+#card-2{
+    height: 300px;
+    
+    margin-left: 0px;
+    display:flex;
+    background-color: #E5F0E5;
+    flex-wrap: wrap;
+
+}
+
+.precio {
+  font-size: 30px;
+  font-weight: bold;
+  color:  #333333 ; /* Color naranja */
+  margin-top: 0px;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.producto-4{
+  
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+  margin-top: -120px;
+  margin-left: 240px;
+  height: 50px;
+  
+}
+#button_flidbudspro{
+  margin-top:-80px;
+  width:140px ;
+  margin-left: 250px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  background: #007bff;
+  height: 50px;
+}
+
+#img_xiaomioflidsbudspro{
+  margin-top: 100px;
+  margin-left: 50px;
+  height: 120px;
+}
+#card-2 .h2{
+  margin-left: 20px;
+  margin-top: 90px;
+  font-size: 20px;
+ 
+}
+
+/*container 5------------------------------------------------------------------------------------*/
+
+
+#container5{
+  margin-top: 40px;
+  margin-left: 600px;
+  font-size: 40px;
+}
+
+/* container-6 -----------------------------------------------------------------------*/
+
+#container6{
+
+  display: flex;
+  margin-left: 180px;
+  width: 1050px;
+}
+
+
+#container6 .item-1,
+#container6 .item-2,
+#container6 .item-3,
+#container6 .item-4,
+#container6 .item-5,
+#container6 .item-6
+{
+  margin-left: 20px;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #f0f0f0;
+  padding: 10px; 
+  text-align: center;
+  height: 250px;
+}
+
+#container6 .item-1 .img-1,
+#container6 .item-2 .img-2,
+#container6 .item-3 .img-3,
+#container6 .item-4 .img-4,
+#container6 .item-5 .img-5,
+#container6 .item-6 .img-6
+{
+  width: 120px;
+  text-align: center;
+}
+
+#container6 .item-1 .img-1{
+
+  margin-top: 10px;
+}
+
+#container6 .item-2 .img-2{
+  width: 110px;
+  margin-top: 45px;
+}
+
+#container6 .item-3 .img-3{
+  width: 140px;
+  margin-top: 80px;
+}
+
+#container6 .item-4 .img-4{
+  width: 140px;
+  margin-top: 50px;
+}
+
+#container6 .item-5 .img-5{
+  width: 140px;
+  margin-top: 65px;
+
+}
+#container6 .item-6 .img-6{
+
+  margin-top: 50px;
+}
+
+#container6 .item-1 .p1
+{
+  margin-top: 40px;
+}
+#container6 .item-2 .p2{
+
+  margin-top: 50px ;
+}
+
+#container6 .item-3 .p3{
+  margin-top: 65px;
+}
+
+#container6 .item-4 .p4{
+
+  margin-top: 20px;
+}
+#container6 .item-5 .p5{
+  margin-top:50px;
+}
+
+#container6 .item-6 .p6{
+  margin-top:38px;
+}
