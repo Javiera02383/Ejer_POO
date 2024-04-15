@@ -1,0 +1,16 @@
+#button_prom{
+  
+    width:130px ;
+    
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: inherit;
+    font-size: 15px;
+    background: #007bff;
+    height: 50px;
+    border-radius: 10px;
+    
+  }
+ 
