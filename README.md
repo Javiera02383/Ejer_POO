@@ -14,7 +14,9 @@ El repositorio está organizado en carpetas donde encontraras diversos archivos.
 - app-clima
 - app_react
 - Cirtech_Proyecto_Final: Un Ecommerce, alojado en un hosting: 
-    https://cirtechonduras.web.app/
-    https://cirtechonduras.firebaseapp.com/
+
+  https://cirtechonduras.web.app/
+
+  https://cirtechonduras.firebaseapp.com/
 
 ¡Esperamos que estos ejercicios sean útiles para aprender!
